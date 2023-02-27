@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gloryandgoore.github.io/static/css/main.2484f46f.css",
-    "main.js": "/gloryandgoore.github.io/static/js/main.fc9eb751.js",
-    "index.html": "/gloryandgoore.github.io/index.html",
-    "main.2484f46f.css.map": "/gloryandgoore.github.io/static/css/main.2484f46f.css.map",
-    "main.fc9eb751.js.map": "/gloryandgoore.github.io/static/js/main.fc9eb751.js.map"
+    "main.css": "/static/css/main.2484f46f.css",
+    "main.js": "/static/js/main.fc9eb751.js",
+    "index.html": "/index.html",
+    "main.2484f46f.css.map": "/static/css/main.2484f46f.css.map",
+    "main.fc9eb751.js.map": "/static/js/main.fc9eb751.js.map"
   },
   "entrypoints": [
     "static/css/main.2484f46f.css",
